@@ -1,0 +1,7 @@
+output/
+plots/
+iters/
+fixed_r/
+epsilon_always/
+.ipynb_checkpoints
+results/
